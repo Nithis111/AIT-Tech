@@ -5,18 +5,18 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>AIT</name>
 
     <description>
-        Moodle Mobile official app
+        Adithya official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://www.nithistech.wordpress.com" email="nithisk93@gmail.com">
+     Nithis Kumar
     </author>
 
-    <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.15</string>
+    <gap:config-file platform="Android" parent="CFBundleShortVersionString">
+        <string>1.0</string>
     </gap:config-file>
 
     <preference name="android-minSdkVersion" value="5" />
